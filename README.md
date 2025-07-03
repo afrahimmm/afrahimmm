@@ -1,7 +1,13 @@
-# 👋 Hi, I'm Afrahim Bhatkar
+<p align="center">
+  <img src="https://cdn.sovira.xyz/cdn/afrahim.png" width="120" alt="Afrahim Logo"/>
+</p>
 
-🚀 I'm a developer passionate about building intelligent, human-centered software.  
-🧠 Currently creating **Arenoi**, an AI therapist designed to understand, respond, and support mental wellness.
+<h1 align="center">👋 Hi, I'm Afrahim Bhatkar</h1>
+
+<p align="center">
+  🚀 I'm a developer passionate about building intelligent, human-centered software. <br>
+  🧠 Currently creating <strong>Arenoi</strong>, an AI therapist designed to understand, respond, and support mental wellness.
+</p>
 
 ---
 
@@ -26,4 +32,4 @@
 
 ---
 
-> “Code with empathy. Deploy with purpose.”
+> 🧠 “Code with empathy. Deploy with purpose.”
