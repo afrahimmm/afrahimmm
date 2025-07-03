@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.sovira.xyz/cdn/afrahim.png" width="120" alt="Afrahim Logo"/>
+  <img src="https://cdn.heysovira.xyz/cdn/afrahim.png" width="120" alt="Afrahim Logo"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Afrahim Bhatkar</h1>
