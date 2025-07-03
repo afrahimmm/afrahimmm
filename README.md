@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Afrahim Bhatkar
 
 🚀 I'm a developer passionate about building intelligent, human-centered software.  
-🧠 Currently creating **Isyra**, an AI therapist designed to understand, respond, and support mental wellness.
+🧠 Currently creating **Arenoi**, an AI therapist designed to understand, respond, and support mental wellness.
 
 ---
 
@@ -13,16 +13,16 @@
 ---
 
 ### 🎧 Projects
-- 🤖 **Isyra AI** – An emotional AI therapist powered by advanced language & sentiment models  
+- 🤖 **Arenoi AI** – An emotional AI therapist powered by advanced language & sentiment models  
 - 🎵 **Discord Bot** – Music + Text-to-Speech bot with emotional tone control  
 - 🧠 **TTS Experiments** – Using Hume AI to generate emotionally adaptive speech
 
 ---
 
 ### 🌐 Links
-- 🌍 [Website](https://rdxhere.info)
+- 🌍 [Website](https://rdxhere.xyz)
 - 🧑‍💼 Working on: `@Isyra`
-- 📫 Reach me: [contact@rdxhere.info](mailto:contact@rdxhere.info)
+- 📫 Reach me: [contact@rdxhere.xyz](mailto:contact@rdxhere.xyz)
 
 ---
 
