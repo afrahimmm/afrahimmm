@@ -1,8 +1,11 @@
 <div align="center">
 
   <a href="https://rdxworks.xyz">
-    <img src="https://www.rdxworks.xyz/logo.png" width="130" alt="RDXWorks Logo"/>
+    <img src="https://www.rdxworks.xyz/logo.png" width="128" alt="RDXWorks"/>
   </a>
+
+  <br/>
+  <br/>
 
   <h1>Afrahim Bhatkar</h1>
 
@@ -11,26 +14,27 @@
   </p>
 
   <p>
-    Building software, developer tools, automation systems, and experiments
+    I build software, developer tools, automation systems, and experimental
     <br/>
-    across backend development, AI, APIs, and interactive applications.
-  </p>
-
-  <p>
-    <a href="https://rdxworks.xyz">
-      <img src="https://img.shields.io/badge/Website-rdxworks.xyz-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-    </a>
-    <a href="mailto:hello@rdxworks.xyz">
-      <img src="https://img.shields.io/badge/Email-hello%40rdxworks.xyz-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/afrahimmm">
-      <img src="https://img.shields.io/badge/GitHub-afrahimmm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
+    applications across backend engineering, AI, APIs, and voice technologies.
   </p>
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=afrahimmm&style=for-the-badge&color=181717&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://rdxworks.xyz">
+    <img src="https://img.shields.io/badge/rdxworks.xyz-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="mailto:hello@rdxworks.xyz">
+    <img src="https://img.shields.io/badge/hello%40rdxworks.xyz-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/afrahimmm">
+    <img src="https://img.shields.io/badge/afrahimmm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br/>
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=afrahimmm&style=flat-square&color=181717&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -38,254 +42,257 @@
 
 ## About
 
-I'm **Afrahim Bhatkar**, a software developer focused on building practical,
-interesting, and experimental software.
+I'm **Afrahim Bhatkar**, a software developer who enjoys turning ideas into
+working systems.
 
-I enjoy working close to the system — designing APIs, building backend
-services, creating automation, experimenting with AI, and developing tools
-that solve real problems.
+My work ranges from backend services and APIs to Discord applications,
+automation, AI experiments, and voice technologies.
 
-My projects often sit at the intersection of:
+I like understanding how things work beneath the surface, experimenting with
+new technologies, and turning useful ideas into software that people can
+actually use.
 
-- Artificial Intelligence
-- Backend Engineering
-- Developer Tools
-- Automation
-- Discord Applications
-- APIs & Integrations
-- Voice & Audio Systems
-- Utility Software
+**Currently focused on**
 
-> **Build things. Break things. Understand how they work. Build them better.**
+`Backend Engineering` · `Artificial Intelligence` · `Automation` ·
+`Developer Tools` · `Voice AI` · `APIs`
 
 ---
 
-## Tech Stack
+## Technology
 
 <div align="center">
 
-### Languages
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=js" height="52" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/">
-  <img src="https://skillicons.dev/icons?i=ts" height="52" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.python.org/">
-  <img src="https://skillicons.dev/icons?i=py" height="52" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=py" height="48" alt="Python"/>
 </a>
-
-<br/><br/>
-
-### Backend & Frameworks
-
+&nbsp;&nbsp;
 <a href="https://nodejs.org/">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="52" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://expressjs.com/">
-  <img src="https://skillicons.dev/icons?i=express" height="52" alt="Express"/>
+  <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://discord.js.org/">
-  <img src="https://skillicons.dev/icons?i=discordjs" height="52" alt="Discord.js"/>
+  <img src="https://skillicons.dev/icons?i=discordjs" height="48" alt="Discord.js"/>
 </a>
-
-<br/><br/>
-
-### Databases & Development
-
+&nbsp;&nbsp;
 <a href="https://www.mongodb.com/">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="52" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.postgresql.org/">
-  <img src="https://skillicons.dev/icons?i=postgres" height="52" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git" height="52" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github" height="52" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
 </a>
+
+<br/>
+<br/>
+
+`JavaScript` `TypeScript` `Python` `Node.js` `Express`
+`MongoDB` `PostgreSQL` `Discord.js` `Git`
 
 </div>
 
 ---
 
-## What I Build
+## What I Work On
 
-<table>
-<tr>
+### Artificial Intelligence
 
-<td width="50%" valign="top">
+Exploring AI systems, conversational applications, emotional intelligence,
+and experimental interfaces that make technology feel more natural.
 
-### AI & Voice
+**Areas**
 
-Experimenting with AI-powered applications, conversational systems,
-emotion-aware interfaces, and expressive voice technologies.
+`AI` `NLP` `APIs` `Voice AI` `TTS`
 
-**Technologies**
+---
 
-`Python` `APIs` `TTS` `AI`
+### Backend Engineering
 
-</td>
+Designing APIs, services, integrations, and backend infrastructure with a
+focus on reliability, performance, and maintainability.
 
-<td width="50%" valign="top">
+**Areas**
 
-### Backend Systems
+`Node.js` `Express` `MongoDB` `PostgreSQL` `REST APIs`
 
-Building APIs, services, integrations, and backend infrastructure designed
-to be reliable, maintainable, and easy to extend.
-
-**Technologies**
-
-`Node.js` `Express` `MongoDB` `PostgreSQL`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ### Discord Applications
 
-Creating feature-rich Discord bots and applications involving audio,
-automation, utilities, APIs, and custom interaction systems.
+Building Discord bots and applications around audio, automation, utilities,
+custom interactions, and external API integrations.
 
-**Technologies**
+**Areas**
 
-`Discord.js` `Node.js` `TTS` `APIs`
+`Discord.js` `Audio` `TTS` `Automation` `APIs`
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### Developer Tools
 
-Building utilities and experiments that make repetitive tasks easier,
-connect different services, or explore new technical ideas.
+Creating utilities, scripts, integrations, and experiments that simplify
+workflows or explore interesting technical problems.
 
-**Technologies**
+**Areas**
 
 `TypeScript` `Python` `Node.js` `Automation`
 
-</td>
+---
 
-</tr>
-</table>
+## Selected Work
+
+**Discord Audio & Utility Systems**
+
+Feature-rich Discord applications built around audio playback, streaming,
+Text-to-Speech, automation, and custom utility functionality.
+
+`Node.js` `Discord.js` `APIs` `TTS`
+
+<br/>
+
+**Emotion-Adaptive Voice Experiments**
+
+Exploring expressive speech generation and emotionally adaptive voice
+experiences using modern AI voice technologies.
+
+`Python` `Hume AI` `Voice AI` `TTS`
+
+<br/>
+
+**Developer Experiments**
+
+A continuously evolving collection of prototypes, scripts, API integrations,
+automation tools, and experimental software.
+
+`JavaScript` `TypeScript` `Python` `Node.js`
 
 ---
 
-## Featured Work
-
-### Discord Audio & Utility Systems
-
-Backend-driven Discord applications focused on audio playback, streaming,
-Text-to-Speech, automation, and utility functionality.
-
-**Stack:** `Node.js` `Discord.js` `APIs` `TTS`
-
----
-
-### Emotion-Adaptive Voice Experiments
-
-Experiments with expressive speech generation and voice systems using
-emotion-aware AI technologies.
-
-**Stack:** `Python` `Hume AI` `TTS` `Voice AI`
-
----
-
-### Developer Experiments
-
-A constantly evolving collection of projects, prototypes, scripts,
-automations, API integrations, and ideas created while exploring new
-technologies.
-
-**Stack:** `JavaScript` `TypeScript` `Python` `Node.js`
-
----
-
-## GitHub Analytics
+## Engineering Interests
 
 <div align="center">
 
+`Artificial Intelligence`
+&nbsp; · &nbsp;
+`Backend Systems`
+&nbsp; · &nbsp;
+`Developer Experience`
+
+<br/>
+
+`Automation`
+&nbsp; · &nbsp;
+`Voice Technology`
+&nbsp; · &nbsp;
+`APIs & Integrations`
+
+<br/>
+
+`Discord Development`
+&nbsp; · &nbsp;
+`Open Source`
+&nbsp; · &nbsp;
+`Software Architecture`
+
+</div>
+
+---
+
+## How I Build
+
+<div align="center">
+
+<strong>IDEA</strong>
+&nbsp;&nbsp;→&nbsp;&nbsp;
+<strong>PROTOTYPE</strong>
+&nbsp;&nbsp;→&nbsp;&nbsp;
+<strong>EXPERIMENT</strong>
+&nbsp;&nbsp;→&nbsp;&nbsp;
+<strong>REFINE</strong>
+&nbsp;&nbsp;→&nbsp;&nbsp;
+<strong>SHIP</strong>
+
+</div>
+
+<br/>
+
+I prefer learning by building.
+
+An idea does not need to be perfect before it becomes a project. Build the
+first version, understand what works, find what breaks, improve it, and keep
+moving.
+
+---
+
+## Beyond the Code
+
+I enjoy exploring the space between software engineering and experimentation.
+
+That includes trying unfamiliar APIs, understanding how systems behave,
+building unusual utilities, testing new AI capabilities, and occasionally
+building something simply because it seems interesting.
+
+The goal isn't always to build the biggest project.
+
+Sometimes it's just to **learn something worth building again**.
+
+---
+
+## Find Me
+
+<div align="center">
+
+<a href="https://rdxworks.xyz">
+  <img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+</a>
+&nbsp;
 <a href="https://github.com/afrahimmm">
-
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=afrahimmm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"
-       alt="Afrahim's GitHub Stats"/>
-
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrahimmm&layout=compact&hide_border=true&langs_count=8&theme=dark"
-       alt="Afrahim's Top Languages"/>
-
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:hello@rdxworks.xyz">
+  <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
----
-
-## Contribution Streak
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/afrahimmm">
+  <sub>
+    <strong>Afrahim Bhatkar</strong>
+  </sub>
 
-  <img
-    src="https://streak-stats.demolab.com?user=afrahimmm&theme=dark&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <br/>
 
-</a>
+  <sub>
+    Software Developer · Systems Builder
+  </sub>
 
-</div>
+  <br/>
+  <br/>
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=afrahimmm&theme=github-dark&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+  <i>Code with empathy. Deploy with purpose.</i>
 
 </div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=afrahimmm&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6"
-    alt="GitHub Trophies"
-  />
-
-</div>
-
----
-
-## Development Philosophy
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   BUILD       → Turn ideas into working software     │
-│   EXPLORE     → Learn by experimenting               │
-│   AUTOMATE    → Eliminate repetitive work             │
-│   IMPROVE     → Keep refining what already works      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
