@@ -1,35 +1,49 @@
-<p align="center">
-  <img src="https://www.rdxworks.xyz/logo.png" width="120" alt="Afrahim Logo"/>
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Afrahim Bhatkar</h1>
+  <img src="https://www.rdxworks.xyz/logo.png" width="130" alt="Afrahim Logo"/>
 
-<p align="center">
-  🚀 I'm a developer passionate about building intelligent, human-centered software. <br>
-  🧠 Currently creating <strong>Arenoi</strong>, an AI therapist designed to understand, respond, and support mental wellness.
-</p>
+  # Hi, I'm Afrahim Bhatkar
 
----
+  **Developer · Builder · AI Enthusiast**
 
-### 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, Python  
-- **Databases:** MongoDB, PostgreSQL  
-- **Tools & Frameworks:** Node.js, Discord.js, Express, Hume API, yt-dlp  
+  <p>
+    I build intelligent, human-centered software with a focus on
+    <br/>
+    <strong>AI, developer tools, automation, and interactive experiences.</strong>
+  </p>
 
----
+  <p>
+    <a href="https://rdxhere.xyz">
+      <img src="https://img.shields.io/badge/Website-rdxhere.xyz-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    </a>
+    <a href="mailto:contact@rdxhere.xyz">
+      <img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 
-### 🎧 Projects
-- 🤖 **Arenoi AI** – An emotional AI therapist powered by advanced language & sentiment models  
-- 🎵 **Discord Bot** – Music + Text-to-Speech bot with emotional tone control  
-- 🧠 **TTS Experiments** – Using Hume AI to generate emotionally adaptive speech
+  <img src="https://komarev.com/ghpvc/?username=rdxhere&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile views"/>
 
----
-
-### 🌐 Links
-- 🌍 [Website](https://rdxhere.xyz)
-- 🧑‍💼 Working on: `@Isyra`
-- 📫 Reach me: [contact@rdxhere.xyz](mailto:contact@rdxhere.xyz)
+</div>
 
 ---
 
-> 🧠 “Code with empathy. Deploy with purpose.”
+## About Me
+
+```ts
+const afrahim = {
+    name: "Afrahim Bhatkar",
+    role: "Developer",
+
+    focus: [
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Automation",
+        "Discord Applications",
+        "Human-Centered Software"
+    ],
+
+    currentlyBuilding: "Arenoi",
+    organization: "@Isyra",
+
+    website: "https://rdxhere.xyz"
+};
