@@ -45,8 +45,6 @@
 
 ## <img src="https://api.iconify.design/lucide:user-round.svg?color=white" width="20" height="20" align="absmiddle"/> About Me
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrahimmm&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages"/>
-
 I'm **Afrahim Bhatkar**, a software developer focused on building practical,
 interesting, and experimental software.
 
@@ -62,8 +60,6 @@ My approach is simple:
 - <img src="https://api.iconify.design/lucide:cpu.svg?color=white" width="16"/> Understand systems at a deeper level
 - <img src="https://api.iconify.design/lucide:refresh-cw.svg?color=white" width="16"/> Continuously improve what I build
 
-<br clear="right"/>
-
 ---
 
 ## <img src="https://api.iconify.design/lucide:code-2.svg?color=white" width="20" height="20" align="absmiddle"/> Technology
@@ -75,11 +71,11 @@ My approach is simple:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/">
   <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="Python"/>
 </a>
@@ -92,11 +88,11 @@ My approach is simple:
 <a href="https://nodejs.org/">
   <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://expressjs.com/">
   <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://discord.js.org/">
   <img src="https://skillicons.dev/icons?i=discordjs" height="48" alt="Discord.js"/>
 </a>
@@ -109,15 +105,15 @@ My approach is simple:
 <a href="https://www.mongodb.com/">
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.postgresql.org/">
   <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/">
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
 </a>
@@ -205,15 +201,19 @@ automation tools, and experimental software.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+useful+software;Exploring+AI+%26+Voice+Technology;Designing+Backend+Systems;Creating+Developer+Tools;Experimenting+with+new+ideas" alt="Current Focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&height=45&lines=Building+useful+software;Exploring+AI+%26+Voice+Technology;Designing+Backend+Systems;Creating+Developer+Tools;Experimenting+with+new+ideas" alt="Current Focus"/>
 
 <br/>
 <br/>
 
 <img src="https://img.shields.io/badge/Backend%20Engineering-181717?style=flat-square&logo=server&logoColor=white" alt="Backend Engineering"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-181717?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Automation-181717?style=flat-square&logo=githubactions&logoColor=white" alt="Automation"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Voice%20AI-181717?style=flat-square&logo=googleassistant&logoColor=white" alt="Voice AI"/>
+&nbsp;
 <img src="https://img.shields.io/badge/APIs-181717?style=flat-square&logo=fastapi&logoColor=white" alt="APIs"/>
 
 </div>
@@ -225,19 +225,25 @@ automation tools, and experimental software.
 <div align="center">
 
 <img src="https://img.shields.io/badge/AI%20Systems-181717?style=for-the-badge" alt="AI Systems"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge" alt="Backend"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Automation-181717?style=for-the-badge" alt="Automation"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Voice%20Technology-181717?style=for-the-badge" alt="Voice Technology"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Developer%20Experience-181717?style=for-the-badge" alt="Developer Experience"/>
+&nbsp;
 <img src="https://img.shields.io/badge/API%20Design-181717?style=for-the-badge" alt="API Design"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Discord%20Development-181717?style=for-the-badge" alt="Discord Development"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Software%20Architecture-181717?style=for-the-badge" alt="Software Architecture"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Experimentation-181717?style=for-the-badge" alt="Experimentation"/>
 
 </div>
@@ -298,15 +304,15 @@ Always experimenting. Always learning. Always building.
 <a href="https://rdxworks.xyz">
   <img src="https://img.shields.io/badge/RDXWorks-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="RDXWorks"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/afrahimmm">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
+&nbsp;
 <a href="mailto:hello@rdxworks.xyz">
   <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
+&nbsp;
 <a href="https://discord.gg/XfHhe42K">
   <img src="https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
@@ -326,7 +332,10 @@ For projects, collaborations, ideas, or just a conversation — feel free to rea
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=888888&center=true&vCenter=true&width=600&lines=Build+with+curiosity.;Engineer+with+purpose.;Keep+learning.;Keep+building." alt="Footer"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=4000&pause=1500&color=888888&center=true&vCenter=true&width=650&height=35&lines=Build+with+curiosity.;Engineer+with+purpose.;Keep+learning.;Keep+building."
+    alt="Footer"
+  />
 
   <br/>
   <br/>
