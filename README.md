@@ -255,14 +255,10 @@ technologies.
 
 <div align="center">
 
-<a href="https://github.com/afrahimmm">
-
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=afrahimmm&theme=github-dark&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=afrahimmm&theme=github-dark&hide_border=true"
     alt="GitHub Activity Graph"
   />
-
-</a>
 
 </div>
 
@@ -272,14 +268,10 @@ technologies.
 
 <div align="center">
 
-<a href="https://github.com/afrahimmm">
-
   <img
-    src="https://github-profile-trophy.vercel.app/?username=afrahimmm&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+    src="https://github-profile-trophy.vercel.app/?username=afrahimmm&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6"
     alt="GitHub Trophies"
   />
-
-</a>
 
 </div>
 
