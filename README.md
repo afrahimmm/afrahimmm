@@ -14,7 +14,7 @@
   </p>
 
   <p>
-    I build software, developer tools, automation systems, and experimental
+    Building software, developer tools, automation systems, and experimental
     <br/>
     applications across backend engineering, AI, APIs, and voice technologies.
   </p>
@@ -22,13 +22,16 @@
   <br/>
 
   <a href="https://rdxworks.xyz">
-    <img src="https://img.shields.io/badge/rdxworks.xyz-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="mailto:hello@rdxworks.xyz">
-    <img src="https://img.shields.io/badge/hello%40rdxworks.xyz-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/afrahimmm">
-    <img src="https://img.shields.io/badge/afrahimmm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://discord.gg/XfHhe42K">
+    <img src="https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
   <br/>
@@ -40,197 +43,220 @@
 
 ---
 
-## About
+## <img src="https://api.iconify.design/lucide:user-round.svg?color=white" width="20" height="20" align="absmiddle"/> About Me
 
-I'm **Afrahim Bhatkar**, a software developer who enjoys turning ideas into
-working systems.
+<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrahimmm&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages"/>
 
-My work ranges from backend services and APIs to Discord applications,
-automation, AI experiments, and voice technologies.
+I'm **Afrahim Bhatkar**, a software developer focused on building practical,
+interesting, and experimental software.
 
-I like understanding how things work beneath the surface, experimenting with
-new technologies, and turning useful ideas into software that people can
-actually use.
+I enjoy working close to the system — designing APIs, building backend
+services, creating automation, experimenting with AI, and developing tools
+that solve real problems.
 
-**Currently focused on**
+My approach is simple:
 
-`Backend Engineering` · `Artificial Intelligence` · `Automation` ·
-`Developer Tools` · `Voice AI` · `APIs`
+- <img src="https://api.iconify.design/lucide:lightbulb.svg?color=white" width="16"/> Turn ideas into working software
+- <img src="https://api.iconify.design/lucide:flask-conical.svg?color=white" width="16"/> Experiment with new technologies
+- <img src="https://api.iconify.design/lucide:workflow.svg?color=white" width="16"/> Automate repetitive work
+- <img src="https://api.iconify.design/lucide:cpu.svg?color=white" width="16"/> Understand systems at a deeper level
+- <img src="https://api.iconify.design/lucide:refresh-cw.svg?color=white" width="16"/> Continuously improve what I build
+
+<br clear="right"/>
 
 ---
 
-## Technology
+## <img src="https://api.iconify.design/lucide:code-2.svg?color=white" width="20" height="20" align="absmiddle"/> Technology
 
 <div align="center">
+
+### <img src="https://api.iconify.design/lucide:braces.svg?color=white" width="18"/> Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.typescriptlang.org/">
   <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="Python"/>
 </a>
-&nbsp;&nbsp;
+
+<br/>
+<br/>
+
+### <img src="https://api.iconify.design/lucide:server.svg?color=white" width="18"/> Backend & Frameworks
+
 <a href="https://nodejs.org/">
   <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://expressjs.com/">
   <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://discord.js.org/">
   <img src="https://skillicons.dev/icons?i=discordjs" height="48" alt="Discord.js"/>
 </a>
-&nbsp;&nbsp;
+
+<br/>
+<br/>
+
+### <img src="https://api.iconify.design/lucide:database.svg?color=white" width="18"/> Databases & Development
+
 <a href="https://www.mongodb.com/">
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.postgresql.org/">
   <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/">
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
 </a>
-
-<br/>
-<br/>
-
-`JavaScript` `TypeScript` `Python` `Node.js` `Express`
-`MongoDB` `PostgreSQL` `Discord.js` `Git`
 
 </div>
 
 ---
 
-## What I Work On
+## <img src="https://api.iconify.design/lucide:layers-3.svg?color=white" width="20" height="20" align="absmiddle"/> What I Build
 
-### Artificial Intelligence
+### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=white" width="20"/> Artificial Intelligence
 
 Exploring AI systems, conversational applications, emotional intelligence,
 and experimental interfaces that make technology feel more natural.
 
-**Areas**
+**Focus**
 
 `AI` `NLP` `APIs` `Voice AI` `TTS`
 
 ---
 
-### Backend Engineering
+### <img src="https://api.iconify.design/lucide:server-cog.svg?color=white" width="20"/> Backend Engineering
 
 Designing APIs, services, integrations, and backend infrastructure with a
 focus on reliability, performance, and maintainability.
 
-**Areas**
+**Focus**
 
 `Node.js` `Express` `MongoDB` `PostgreSQL` `REST APIs`
 
 ---
 
-### Discord Applications
+### <img src="https://api.iconify.design/lucide:message-square-more.svg?color=white" width="20"/> Discord Applications
 
 Building Discord bots and applications around audio, automation, utilities,
 custom interactions, and external API integrations.
 
-**Areas**
+**Focus**
 
-`Discord.js` `Audio` `TTS` `Automation` `APIs`
+`Discord.js` `Node.js` `Audio` `TTS` `APIs`
 
 ---
 
-### Developer Tools
+### <img src="https://api.iconify.design/lucide:wrench.svg?color=white" width="20"/> Developer Tools
 
 Creating utilities, scripts, integrations, and experiments that simplify
 workflows or explore interesting technical problems.
 
-**Areas**
+**Focus**
 
 `TypeScript` `Python` `Node.js` `Automation`
 
 ---
 
-## Selected Work
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=white" width="20" height="20" align="absmiddle"/> Selected Work
 
-**Discord Audio & Utility Systems**
+### <img src="https://api.iconify.design/lucide:music-2.svg?color=white" width="18"/> Discord Audio & Utility Systems
 
-Feature-rich Discord applications built around audio playback, streaming,
+Feature-rich Discord applications focused on audio playback, streaming,
 Text-to-Speech, automation, and custom utility functionality.
 
-`Node.js` `Discord.js` `APIs` `TTS`
+`Node.js` · `Discord.js` · `APIs` · `TTS`
 
-<br/>
+---
 
-**Emotion-Adaptive Voice Experiments**
+### <img src="https://api.iconify.design/lucide:audio-lines.svg?color=white" width="18"/> Emotion-Adaptive Voice Experiments
 
 Exploring expressive speech generation and emotionally adaptive voice
 experiences using modern AI voice technologies.
 
-`Python` `Hume AI` `Voice AI` `TTS`
+`Python` · `Hume AI` · `Voice AI` · `TTS`
 
-<br/>
+---
 
-**Developer Experiments**
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=white" width="18"/> Developer Experiments
 
 A continuously evolving collection of prototypes, scripts, API integrations,
 automation tools, and experimental software.
 
-`JavaScript` `TypeScript` `Python` `Node.js`
+`JavaScript` · `TypeScript` · `Python` · `Node.js`
 
 ---
 
-## Engineering Interests
+## <img src="https://api.iconify.design/lucide:target.svg?color=white" width="20" height="20" align="absmiddle"/> Current Focus
 
 <div align="center">
 
-`Artificial Intelligence`
-&nbsp; · &nbsp;
-`Backend Systems`
-&nbsp; · &nbsp;
-`Developer Experience`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+useful+software;Exploring+AI+%26+Voice+Technology;Designing+Backend+Systems;Creating+Developer+Tools;Experimenting+with+new+ideas" alt="Current Focus"/>
 
 <br/>
-
-`Automation`
-&nbsp; · &nbsp;
-`Voice Technology`
-&nbsp; · &nbsp;
-`APIs & Integrations`
-
 <br/>
 
-`Discord Development`
-&nbsp; · &nbsp;
-`Open Source`
-&nbsp; · &nbsp;
-`Software Architecture`
+<img src="https://img.shields.io/badge/Backend%20Engineering-181717?style=flat-square&logo=server&logoColor=white" alt="Backend Engineering"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-181717?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Automation-181717?style=flat-square&logo=githubactions&logoColor=white" alt="Automation"/>
+<img src="https://img.shields.io/badge/Voice%20AI-181717?style=flat-square&logo=googleassistant&logoColor=white" alt="Voice AI"/>
+<img src="https://img.shields.io/badge/APIs-181717?style=flat-square&logo=fastapi&logoColor=white" alt="APIs"/>
 
 </div>
 
 ---
 
-## How I Build
+## <img src="https://api.iconify.design/lucide:compass.svg?color=white" width="20" height="20" align="absmiddle"/> Engineering Interests
 
 <div align="center">
 
-<strong>IDEA</strong>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<strong>PROTOTYPE</strong>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<strong>EXPERIMENT</strong>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<strong>REFINE</strong>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<strong>SHIP</strong>
+<img src="https://img.shields.io/badge/AI%20Systems-181717?style=for-the-badge" alt="AI Systems"/>
+<img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge" alt="Backend"/>
+<img src="https://img.shields.io/badge/Automation-181717?style=for-the-badge" alt="Automation"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Voice%20Technology-181717?style=for-the-badge" alt="Voice Technology"/>
+<img src="https://img.shields.io/badge/Developer%20Experience-181717?style=for-the-badge" alt="Developer Experience"/>
+<img src="https://img.shields.io/badge/API%20Design-181717?style=for-the-badge" alt="API Design"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Discord%20Development-181717?style=for-the-badge" alt="Discord Development"/>
+<img src="https://img.shields.io/badge/Software%20Architecture-181717?style=for-the-badge" alt="Software Architecture"/>
+<img src="https://img.shields.io/badge/Experimentation-181717?style=for-the-badge" alt="Experimentation"/>
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/lucide:git-branch.svg?color=white" width="20" height="20" align="absmiddle"/> How I Build
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01%20IDEA-181717?style=for-the-badge" alt="Idea"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/02%20PROTOTYPE-181717?style=for-the-badge" alt="Prototype"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/03%20EXPERIMENT-181717?style=for-the-badge" alt="Experiment"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/04%20REFINE-181717?style=for-the-badge" alt="Refine"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/05%20SHIP-181717?style=for-the-badge" alt="Ship"/>
 
 </div>
 
@@ -238,55 +264,76 @@ automation tools, and experimental software.
 
 I prefer learning by building.
 
-An idea does not need to be perfect before it becomes a project. Build the
+An idea doesn't need to be perfect before it becomes a project. Build the
 first version, understand what works, find what breaks, improve it, and keep
 moving.
 
 ---
 
-## Beyond the Code
+## <img src="https://api.iconify.design/lucide:activity.svg?color=white" width="20" height="20" align="absmiddle"/> Development Status
 
-I enjoy exploring the space between software engineering and experimentation.
+<div align="center">
 
-That includes trying unfamiliar APIs, understanding how systems behave,
-building unusual utilities, testing new AI capabilities, and occasionally
-building something simply because it seems interesting.
+<img src="https://img.shields.io/badge/●%20BUILDING-181717?style=for-the-badge" alt="Building"/>
+&nbsp;
+<img src="https://img.shields.io/badge/●%20EXPLORING-181717?style=for-the-badge" alt="Exploring"/>
+&nbsp;
+<img src="https://img.shields.io/badge/●%20LEARNING-181717?style=for-the-badge" alt="Learning"/>
 
-The goal isn't always to build the biggest project.
+<br/>
+<br/>
 
-Sometimes it's just to **learn something worth building again**.
+<sub>
+Always experimenting. Always learning. Always building.
+</sub>
+
+</div>
 
 ---
 
-## Find Me
+## <img src="https://api.iconify.design/lucide:message-circle.svg?color=white" width="20" height="20" align="absmiddle"/> Find Me
 
 <div align="center">
 
 <a href="https://rdxworks.xyz">
-  <img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  <img src="https://img.shields.io/badge/RDXWorks-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="RDXWorks"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/afrahimmm">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;
+
 <a href="mailto:hello@rdxworks.xyz">
   <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-</div>
+<a href="https://discord.gg/XfHhe42K">
+  <img src="https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
 
 <br/>
+<br/>
+
+<sub>
+For projects, collaborations, ideas, or just a conversation — feel free to reach out.
+</sub>
+
+</div>
+
+---
 
 <div align="center">
 
-  <sub>
-    <strong>Afrahim Bhatkar</strong>
-  </sub>
+  <br/>
 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=888888&center=true&vCenter=true&width=600&lines=Build+with+curiosity.;Engineer+with+purpose.;Keep+learning.;Keep+building." alt="Footer"/>
+
+  <br/>
   <br/>
 
   <sub>
+    <strong>Afrahim Bhatkar</strong>
+    <br/>
     Software Developer · Systems Builder
   </sub>
 
