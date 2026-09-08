@@ -23,14 +23,14 @@
     <a href="mailto:hello@rdxworks.xyz">
       <img src="https://img.shields.io/badge/Email-hello%40rdxworks.xyz-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://github.com/rdxhere">
-      <img src="https://img.shields.io/badge/GitHub-rdxhere-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <a href="https://github.com/afrahimmm">
+      <img src="https://img.shields.io/badge/GitHub-afrahimmm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </p>
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=rdxhere&style=for-the-badge&color=181717&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=afrahimmm&style=for-the-badge&color=181717&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -218,14 +218,14 @@ technologies.
 
 <div align="center">
 
-<a href="https://github.com/rdxhere">
+<a href="https://github.com/afrahimmm">
 
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=rdxhere&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"
+       src="https://github-readme-stats.vercel.app/api?username=afrahimmm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"
        alt="Afrahim's GitHub Stats"/>
 
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdxhere&layout=compact&hide_border=true&langs_count=8&theme=dark"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrahimmm&layout=compact&hide_border=true&langs_count=8&theme=dark"
        alt="Afrahim's Top Languages"/>
 
 </a>
@@ -238,10 +238,10 @@ technologies.
 
 <div align="center">
 
-<a href="https://github.com/rdxhere">
+<a href="https://github.com/afrahimmm">
 
   <img
-    src="https://streak-stats.demolab.com?user=rdxhere&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=afrahimmm&theme=dark&hide_border=true"
     alt="GitHub Contribution Streak"
   />
 
@@ -255,10 +255,10 @@ technologies.
 
 <div align="center">
 
-<a href="https://github.com/rdxhere">
+<a href="https://github.com/afrahimmm">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rdxhere&theme=github-dark&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=afrahimmm&theme=github-dark&hide_border=true&area=true"
     alt="GitHub Activity Graph"
   />
 
@@ -272,10 +272,10 @@ technologies.
 
 <div align="center">
 
-<a href="https://github.com/rdxhere">
+<a href="https://github.com/afrahimmm">
 
   <img
-    src="https://github-profile-trophy.vercel.app/?username=rdxhere&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+    src="https://github-profile-trophy.vercel.app/?username=afrahimmm&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
     alt="GitHub Trophies"
   />
 
@@ -296,3 +296,4 @@ technologies.
 │   IMPROVE     → Keep refining what already works      │
 │                                                      │
 └──────────────────────────────────────────────────────┘
+```
