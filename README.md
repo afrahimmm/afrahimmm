@@ -43,7 +43,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:user-round.svg?color=white" width="20" height="20" align="absmiddle"/> About Me
+## <img src="assets/icons/user-round.svg" width="20" height="20" align="absmiddle"/> About Me
 
 I'm **Afrahim Bhatkar**, a software developer focused on building practical,
 interesting, and experimental software.
@@ -54,19 +54,19 @@ that solve real problems.
 
 My approach is simple:
 
-- <img src="https://api.iconify.design/lucide:lightbulb.svg?color=white" width="16"/> Turn ideas into working software
-- <img src="https://api.iconify.design/lucide:flask-conical.svg?color=white" width="16"/> Experiment with new technologies
-- <img src="https://api.iconify.design/lucide:workflow.svg?color=white" width="16"/> Automate repetitive work
-- <img src="https://api.iconify.design/lucide:cpu.svg?color=white" width="16"/> Understand systems at a deeper level
-- <img src="https://api.iconify.design/lucide:refresh-cw.svg?color=white" width="16"/> Continuously improve what I build
+- <img src="assets/icons/lightbulb.svg" width="16"/> Turn ideas into working software
+- <img src="assets/icons/flask-conical.svg" width="16"/> Experiment with new technologies
+- <img src="assets/icons/workflow.svg" width="16"/> Automate repetitive work
+- <img src="assets/icons/cpu.svg" width="16"/> Understand systems at a deeper level
+- <img src="assets/icons/refresh-cw.svg" width="16"/> Continuously improve what I build
 
 ---
 
-## <img src="https://api.iconify.design/lucide:code-2.svg?color=white" width="20" height="20" align="absmiddle"/> Technology
+## <img src="assets/icons/code-2.svg" width="20" height="20" align="absmiddle"/> Technology
 
 <div align="center">
 
-### <img src="https://api.iconify.design/lucide:braces.svg?color=white" width="18"/> Languages
+### <img src="assets/icons/braces.svg" width="18"/> Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/>
@@ -83,7 +83,7 @@ My approach is simple:
 <br/>
 <br/>
 
-### <img src="https://api.iconify.design/lucide:server.svg?color=white" width="18"/> Backend & Frameworks
+### <img src="assets/icons/server.svg" width="18"/> Backend & Frameworks
 
 <a href="https://nodejs.org/">
   <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/>
@@ -100,7 +100,7 @@ My approach is simple:
 <br/>
 <br/>
 
-### <img src="https://api.iconify.design/lucide:database.svg?color=white" width="18"/> Databases & Development
+### <img src="assets/icons/database.svg" width="18"/> Databases & Development
 
 <a href="https://www.mongodb.com/">
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/>
@@ -122,9 +122,9 @@ My approach is simple:
 
 ---
 
-## <img src="https://api.iconify.design/lucide:layers-3.svg?color=white" width="20" height="20" align="absmiddle"/> What I Build
+## <img src="assets/icons/layers-3.svg" width="20" height="20" align="absmiddle"/> What I Build
 
-### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=white" width="20"/> Artificial Intelligence
+### <img src="assets/icons/brain-circuit.svg" width="20"/> Artificial Intelligence
 
 Exploring AI systems, conversational applications, emotional intelligence,
 and experimental interfaces that make technology feel more natural.
@@ -135,7 +135,7 @@ and experimental interfaces that make technology feel more natural.
 
 ---
 
-### <img src="https://api.iconify.design/lucide:server-cog.svg?color=white" width="20"/> Backend Engineering
+### <img src="assets/icons/server-cog.svg" width="20"/> Backend Engineering
 
 Designing APIs, services, integrations, and backend infrastructure with a
 focus on reliability, performance, and maintainability.
@@ -146,7 +146,7 @@ focus on reliability, performance, and maintainability.
 
 ---
 
-### <img src="https://api.iconify.design/lucide:message-square-more.svg?color=white" width="20"/> Discord Applications
+### <img src="assets/icons/message-square-more.svg" width="20"/> Discord Applications
 
 Building Discord bots and applications around audio, automation, utilities,
 custom interactions, and external API integrations.
@@ -157,7 +157,7 @@ custom interactions, and external API integrations.
 
 ---
 
-### <img src="https://api.iconify.design/lucide:wrench.svg?color=white" width="20"/> Developer Tools
+### <img src="assets/icons/wrench.svg" width="20"/> Developer Tools
 
 Creating utilities, scripts, integrations, and experiments that simplify
 workflows or explore interesting technical problems.
@@ -168,9 +168,9 @@ workflows or explore interesting technical problems.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:rocket.svg?color=white" width="20" height="20" align="absmiddle"/> Selected Work
+## <img src="assets/icons/rocket.svg" width="20" height="20" align="absmiddle"/> Selected Work
 
-### <img src="https://api.iconify.design/lucide:music-2.svg?color=white" width="18"/> Discord Audio & Utility Systems
+### <img src="assets/icons/music-2.svg" width="18"/> Discord Audio & Utility Systems
 
 Feature-rich Discord applications focused on audio playback, streaming,
 Text-to-Speech, automation, and custom utility functionality.
@@ -179,7 +179,7 @@ Text-to-Speech, automation, and custom utility functionality.
 
 ---
 
-### <img src="https://api.iconify.design/lucide:audio-lines.svg?color=white" width="18"/> Emotion-Adaptive Voice Experiments
+### <img src="assets/icons/audio-lines.svg" width="18"/> Emotion-Adaptive Voice Experiments
 
 Exploring expressive speech generation and emotionally adaptive voice
 experiences using modern AI voice technologies.
@@ -188,7 +188,7 @@ experiences using modern AI voice technologies.
 
 ---
 
-### <img src="https://api.iconify.design/lucide:terminal.svg?color=white" width="18"/> Developer Experiments
+### <img src="assets/icons/terminal.svg" width="18"/> Developer Experiments
 
 A continuously evolving collection of prototypes, scripts, API integrations,
 automation tools, and experimental software.
@@ -197,7 +197,7 @@ automation tools, and experimental software.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:target.svg?color=white" width="20" height="20" align="absmiddle"/> Current Focus
+## <img src="assets/icons/target.svg" width="20" height="20" align="absmiddle"/> Current Focus
 
 <div align="center">
 
@@ -220,7 +220,7 @@ automation tools, and experimental software.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:compass.svg?color=white" width="20" height="20" align="absmiddle"/> Engineering Interests
+## <img src="assets/icons/compass.svg" width="20" height="20" align="absmiddle"/> Engineering Interests
 
 <div align="center">
 
@@ -250,7 +250,7 @@ automation tools, and experimental software.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:git-branch.svg?color=white" width="20" height="20" align="absmiddle"/> How I Build
+## <img src="assets/icons/git-branch.svg" width="20" height="20" align="absmiddle"/> How I Build
 
 <div align="center">
 
@@ -276,7 +276,7 @@ moving.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:activity.svg?color=white" width="20" height="20" align="absmiddle"/> Development Status
+## <img src="assets/icons/activity.svg" width="20" height="20" align="absmiddle"/> Development Status
 
 <div align="center">
 
@@ -297,7 +297,7 @@ Always experimenting. Always learning. Always building.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:message-circle.svg?color=white" width="20" height="20" align="absmiddle"/> Find Me
+## <img src="assets/icons/message-circle.svg" width="20" height="20" align="absmiddle"/> Find Me
 
 <div align="center">
 
