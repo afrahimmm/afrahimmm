@@ -297,24 +297,6 @@ Always experimenting. Always learning. Always building.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=white" width="20" height="20" align="absmiddle"/> Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afrahimmm/afrahimmm/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afrahimmm/afrahimmm/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/afrahimmm/afrahimmm/output/github-snake.svg" alt="GitHub contribution snake animation"/>
-</picture>
-
-<br/>
-
-<sub>My contribution grid, played by a snake. Updated daily.</sub>
-
-</div>
-
----
-
 ## <img src="https://api.iconify.design/lucide:message-circle.svg?color=white" width="20" height="20" align="absmiddle"/> Find Me
 
 <div align="center">
